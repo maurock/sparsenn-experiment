@@ -1,2 +1,2 @@
-# sparsenn-experiment
-Experiments on the optimization of sparse neural networks
+# Experiments on Sparse-NN
+Experiments on the optimization of Sparse Neural Networks using cosine similarity. This repository is the *unofficial* implementation of the paper ["Evolving and Understanding Sparse Deep Neural Networks using Cosine Similarity"](https://arxiv.org/abs/1903.07138) by Joost Pieterse and Decebal Constantin Mocanu. The official implementation is available [here](https://github.com/joostPieterse/CosineSET). My code experiments with the concepts reported in the original paper.
